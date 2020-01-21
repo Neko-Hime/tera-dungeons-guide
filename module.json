@@ -1,0 +1,7 @@
+{
+  "name": "Dungeons Guide",
+  "author": "Neko-Hime",
+  "description": "Multi Dungeons Guide for Tera Online",
+  "servers": ["https://raw.githubusercontent.com/Neko-Hime/tera-dungeons-guide/master/"],
+  "version": "1.0"
+}
